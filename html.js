@@ -1,11 +1,11 @@
 //1.crea un div
 
-var dvi1 = document.createElement('div');
+var div1 = document.createElement('div');
 
 
 //2.crea un svg
 
-document.createElementNS('svg');
+document.createElementNS('http://www.w3.org/2000/svg','svg')
 
 
 //3.agrega una clase al div creado en el punto 1
