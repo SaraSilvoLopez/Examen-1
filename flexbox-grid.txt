@@ -1,0 +1,2 @@
+- La diferencia principal es que Flexbox es unidimensional, es decir, trabaja en una sola dimensión a al vez, ya sea en filas o en columnas. Con grid, en cambio, trabajamos en dos dimensiones simultaneamente, filas y columnas a la vez (creamos una 'grilla')
+- Otra diferencia a tener en cuenta es la compatibilidad de Grid y Flexbox con los distintos navegadores. Esta última esta disponible desde hace más tiempo y por tanto, es compatbile con más versiones. (Esto se puede comprobar en la página https://caniuse.com)
