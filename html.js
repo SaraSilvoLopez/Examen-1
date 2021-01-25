@@ -15,7 +15,7 @@ div1.classList.add('pink')
 
 //4.agrega un estilo que cambie la propiedad color al punto 1
 
-div1.setProperty('color','green') 
+div1.style.setProperty('color','green') 
 
 
 //5. agrega un atributo id al punto 1
